@@ -1,6 +1,8 @@
 # Welcome to My Ethical Hacking Portfolio
 
 Hi, I'm [Your Name], an ethical hacker passionate about securing systems, finding vulnerabilities, and making the internet a safer place. In my GitHub portfolio, you'll find various tools, scripts, and research that I've created or contributed to. Feel free to explore and contribute!
+[ethickal hacking GIF]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdp3m35KJtKmaGXdGA-7D1Zmp91HCgzA22wQ&s
+
 
 ## Skills
 - Penetration Testing
